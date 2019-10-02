@@ -7,9 +7,13 @@ Introducing the Team
 ## The Team and their specialties
 
 > Team Leader: Eman Lacuata
+>
 > Modern Workplace: Jelo Formeloza and Ericsson Ramos
+>
 > Modern Infrastructure: JC Castelo
+>
 > Azure Cloud: Mella Penaranda and Nat Pascual
+>
 > Business Apps: Mark Lagan and JM Dacillo
 
 ### Header 3
