@@ -1,7 +1,7 @@
 
 # Introducing the Team
 
-![MSTeam](/assets/img/mspsteam.png)
+![MSTeam](/assets/img/mspsteam.jpg)
 Introducing the Team
 
 ## The Team and their specialties
