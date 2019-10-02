@@ -16,13 +16,5 @@ Introducing the Team
 >
 > Business Apps: Mark Lagan and JM Dacillo
 
-### Header 3
+### Contact Us
 Contact us: mspresales@nexustech.com.ph
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
