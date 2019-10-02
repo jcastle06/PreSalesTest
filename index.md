@@ -1,24 +1,16 @@
----
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Introducing the Team
 
-[Link to another page](./another-page.html).
+![MSTeam](/assets/img/mspsteam.png)
+Introducing the Team
 
-There should be whitespace between paragraphs.
+## The Team and their specialties
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> Team Leader: Eman Lacuata
+> Modern Workplace: Jelo Formeloza and Ericsson Ramos
+> Modern Infrastructure: JC Castelo
+> Azure Cloud: Mella Penaranda and Nat Pascual
+> Business Apps: Mark Lagan and JM Dacillo
 
 ### Header 3
 
